@@ -13,7 +13,7 @@
 
 ## 1. 编写优秀的 CLAUDE.md
 
-一个结构良好的 CLAUDE.md 是提升 Claude Code 输出质量最有效的方式。Humanlayer 有一篇优秀的指南，涵盖该包含什么、如何结构化以及常见陷阱。
+一个结构良好的 CLAUDE.md 是提升 Claude Code 输出质量最有效的方式。Humanlayer 有篇优秀的指南涵盖该包含什么、如何结构化以及常见陷阱。
 
 - [Humanlayer - Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 

@@ -1,5 +1,8 @@
 # MCP 服务器最佳实践
 
+![Last Updated](https://img.shields.io/badge/Last_Updated-Mar%2002%2C%202026%2012%3A30%20PM%20PKT-white?style=flat&labelColor=555)<br>
+[![Implemented](https://img.shields.io/badge/Implemented-2ea44f?style=flat)](../.mcp.json)
+
 MCP（Model Context Protocol）服务器通过连接外部工具、数据库和 API 来扩展 Claude Code。本指南介绍日常使用的推荐服务器和配置最佳实践。
 
 <table width="100%">
